@@ -51,7 +51,7 @@ cat <<'EOF' > /var/www/html/index.html
   </style>
 </head>
 <body>
-  <!-- truncated: you can paste the rest of the body here -->
+  
 </body>
 </html>
 EOF
