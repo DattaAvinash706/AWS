@@ -1,5 +1,5 @@
 # AWS
-Aws deploying a instance which can go live and we can access it anytime from anywhere over the world 
+Aws deploying a instance which can go live and we can access it anytime from anywhere over the world ,using userdata to install appache server and lauch a simple static page to test the working of the ec2 instance 
 #!/bin/bash
 yum update -y
 yum install -y httpd
